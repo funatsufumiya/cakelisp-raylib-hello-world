@@ -1,0 +1,4 @@
+*.exe
+/output*
+/*_cache
+a.out
